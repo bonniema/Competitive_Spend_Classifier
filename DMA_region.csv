@@ -1,0 +1,214 @@
+KANTAR MARKET,DMA_Code,NIELSEN DMA,Region_Name,Division_Name,IsInFootprint,IsTop31
+"ALBANY,NY",532,Albany - Schenectady - Troy,Western New England,Northeast,1,0
+ALBUQUERQUE,790,Albuquerque - Santa Fe,Mile High,West,1,1
+AMARILLO,634,Amarillo,Mile High,West,1,0
+ATLANTA,524,Atlanta,Big South,Central,1,1
+AUGUSTA,520,Augusta,Big South,Central,1,0
+BALTIMORE,512,Baltimore,Beltway,Northeast,1,1
+BIRMINGHAM,630,Birmingham (Anniston and Tuscaloosa),Big South,Central,1,0
+BLUEFIELD,559,Bluefield - Beckley - Oak Hill,Beltway,Northeast,1,0
+BOSTON,506,Boston (Manchester),Greater Boston,Northeast,1,1
+BOWLING GREEN,736,Bowling Green,Heartland,Central,1,0
+BUFFALO,514,Buffalo,Keystone,Northeast,1,0
+BURLINGTON,523,Burlington - Plattsburgh,Western New England,Northeast,1,0
+CHAMPAIGN,648,Champaign & Springfield - Decatur,Chicago,Central,1,0
+"CHARLESTON,SC",519,"Charleston, SC",Big South,Central,1,0
+"CHARLESTON,WV",564,Charleston-Huntington,Beltway,Northeast,1,0
+CHARLOTTESVILL,584,Charlottesville,Beltway,Northeast,1,0
+CHATTANOOGA,575,Chattanooga,Big South,Central,1,1
+CHICAGO,602,Chicago,Chicago,Central,1,1
+CHICO,868,Chico - Redding,California,West,1,0
+CINCINNATI,515,Cincinnati,Heartland,Central,1,0
+CLARKSBURG,598,Clarksburg - Weston,Keystone,Northeast,1,0
+COLORADO SPRGS,752,Colorado Springs-Pueblo,Mile High,West,1,1
+"COLUMBIA,SC",546,"Columbia, SC",Big South,Central,1,0
+"COLUMBUS,GA",522,"Columbus, GA",Big South,Central,1,0
+"COLUMBUS,MS",673,Columbus - Tupelo - West Point,Big South,Central,1,0
+DAVENPORT,682,Davenport - Rock Island - Moline,Chicago,Central,1,0
+DAYTON,542,Dayton,Heartland,Central,1,0
+DENVER,751,Denver,Mile High,West,1,1
+DETROIT,505,Detroit,Heartland,Central,1,1
+DOTHAN,606,Dothan,Florida,Central,1,0
+EL PASO,765,El Paso,Mile High,West,1,0
+EUGENE,801,Eugene,Portland,West,1,0
+EVANSVILLE,649,Evansville,Heartland,Central,1,0
+FLINT,513,Flint - Saginaw - Bay City,Heartland,Central,1,0
+FRESNO,866,Fresno - Visalia,California,West,1,1
+FT MYERS,571,Fort Myers - Naples,Florida,Central,1,1
+FT WAYNE,509,Fort Wayne,Heartland,Central,1,0
+GAINESVILLE,592,Gainesville,Florida,Central,1,0
+GRAND RAPIDS,563,Grand Rapids - Kalamazoo - Battle Creek,Heartland,Central,1,1
+GREEN BAY,658,Green Bay - Appleton,Twin Cities,West,1,0
+GREENSBORO,518,Greensboro - High Point - Winston-Salem,Beltway,Northeast,1,0
+"GREENVILLE,SC",567,Greenville - Spartansburg - Asheville - Anderson,Big South,Central,1,0
+HARRISBURG,566,Harrisburg - Lancaster - Lebanon - York,Keystone,Northeast,1,1
+HARRISONBURG,569,Harrisonburg,Beltway,Northeast,1,0
+HARTFORD,533,Hartford & New Haven,Western New England,Northeast,1,1
+HATTIESBURG,710,Hattiesburg - Laurel,Big South,Central,1,0
+HOUSTON,618,Houston,Houston,West,1,1
+HUNTSVILLE,691,Huntsville - Decatur (Florence),Big South,Central,1,0
+INDIANAPOLIS,527,Indianapolis,Heartland,Central,1,1
+"JACKSON,MS",718,"Jackson, MS",Big South,Central,1,0
+"JACKSON,TN",639,"Jackson, TN",Big South,Central,1,0
+JACKSONVILLE,561,"Jacksonville, Brunswick",Florida,Central,1,1
+JOHNSTOWN,574,Johnstown - Altoona,Keystone,Northeast,1,0
+KANSAS CITY,616,Kansas City,Twin Cities,West,1,0
+KNOXVILLE,557,Knoxville,Big South,Central,1,0
+"LAFAYETTE,IN",582,"Lafayette, IN",Heartland,Central,1,0
+LANSING,551,Lansing,Heartland,Central,1,0
+LITTLE ROCK,693,Little Rock - Pine Bluff,Big South,Central,1,0
+LOUISVILLE,529,Louisville,Heartland,Central,1,0
+MACON,503,Macon,Big South,Central,1,0
+MANKATO,737,Mankato,Twin Cities,West,1,0
+MEMPHIS,640,Memphis,Big South,Central,1,1
+MERIDIAN,711,Meridian,Big South,Central,1,0
+MIAMI,528,Miami - Fort Lauderdale,Florida,Central,1,1
+MINNEAPOLIS,613,Minneapolis - Saint Paul,Twin Cities,West,1,1
+MOBILE,686,Mobile - Pensacola (Fort Walton Beach),Big South,Central,1,0
+MONROE,628,Monroe - El Dorado,Big South,Central,1,0
+MONTEREY,828,Monterey - Salinas,California,West,1,0
+NASHVILLE,659,Nashville,Big South,Central,1,1
+NEW ORLEANS,622,New Orleans,Big South,Central,1,0
+NEW YORK,501,New York,Freedom,Northeast,1,0
+NORFOLK,544,Norfolk - Portsmouth - Newport News,Beltway,Northeast,1,0
+ORLANDO,534,Orlando - Daytona Beach - Melbourne,Florida,Central,1,0
+PADUCAH,632,Paducah - Cape Girardeau - Harrisburg - Mt Vernon,Heartland,Central,1,0
+PANAMA CITY,656,Panama City,Florida,Central,1,0
+PEORIA,675,Peoria - Bloomington,Chicago,Central,1,0
+PHILADELPHIA,504,Philadelphia,Freedom,Northeast,1,1
+PHOENIX,753,Phoenix,Mountain,West,1,0
+PITTSBURGH,508,Pittsburgh,Keystone,Northeast,1,1
+"PORTLAND,ME",500,Portland - Auburn,Greater Boston,Northeast,1,0
+"PORTLAND,OR",820,"Portland, OR",Portland,West,1,1
+PROVIDENCE,521,Providence - New Bedford,Greater Boston,Northeast,1,0
+QUINCY,717,Quincy - Hannibal - Keokuk,Chicago,Central,1,0
+RALEIGH,560,Raleigh - Durham (Fayetteville),Beltway,Northeast,1,0
+RICHMOND,556,Richmond - Petersburg,Beltway,Northeast,1,1
+ROANOKE,573,Roanoke - Lynchburg,Beltway,Northeast,1,0
+ROCKFORD,610,Rockford,Chicago,Central,1,0
+SACRAMENTO,862,Sacramento - Stockton - Modesto,California,West,1,1
+SALISBURY,576,Salisbury,Beltway,Northeast,1,0
+SALT LAKE CITY,770,Salt Lake City,Mountain,West,1,1
+SAN FRANCISCO,807,San Francisco - Oakland - San Jose,California,West,1,1
+SANTA BARBARA,855,Santa Barbara - Santa Maria - San Luis Obispo,California,West,1,0
+SAVANNAH,507,Savannah,Big South,Central,1,0
+SEATTLE,819,Seattle - Tacoma,Seattle,West,1,1
+SHREVEPORT,612,Shreveport,Big South,Central,1,0
+SOUTH BEND,588,South Bend - Elkhart,Chicago,Central,1,0
+SPOKANE,881,Spokane,Seattle,West,1,0
+"SPRINGFIELD,MA",543,Springfield - Holyoke,Western New England,Northeast,1,0
+TALLAHASSEE,530,Tallahassee - Thomasville,Florida,Central,1,0
+TAMPA,539,Tampa - Saint Petersburg (Sarasota),Florida,Central,1,0
+TERRE HAUTE,581,Terre Haute,Heartland,Central,1,0
+TOLEDO,547,Toledo,Heartland,Central,1,0
+TRI CITIES,531,"Tri-Cities, TN-VA",Big South,Central,1,0
+TUCSON,789,Tucson (Sierra Vista),Mountain,West,1,0
+"WASHINGTON,DC",511,Washington DC (Hagerstown),Beltway,Northeast,1,1
+WEST PALM BCH,548,West Palm Beach - Fort Pierce,Florida,Central,1,1
+WHEELING,554,Wheeling - Steubenville,Keystone,Northeast,1,0
+WILKES BARRE,577,Wilkes Barre - Scranton,Keystone,Northeast,1,0
+YOUNGSTOWN,536,Youngstown,Keystone,Northeast,1,0
+* TOTAL US,0,* TOTAL US,National,National,1,0
+"WASHINGTON, DC",511,Washington DC (Hagerstown),Beltway,Northeast,1,1
+ABILENE,662,Abilene - Sweetwater,NULL,West,0,0
+"ALBANY,GA",525,"Albany, GA",Big South,Central,1,0
+ALEXANDRIA,644,"Alexandria, LA",None,Central,0,0
+ALL OTHER,0,N/A,ALL OTHER,ALL OTHER,0,0
+ALPENA,583,Alpena,None,Central,0,0
+ANCHORAGE,743,Anchorage,None,West,0,0
+AUSTIN,635,"Austin, TX",None,West,0,0
+BAKERSFIELD,800,Bakersfield,None,West,0,0
+BANGOR,537,Bangor,None,Northeast,0,0
+BATON ROUGE,716,Baton Rouge,None,Central,0,0
+BEAUMONT,692,Beaumont - Port Arthur,Houston,West,1,0
+BEND,821,"Bend, OR",None,West,0,0
+BILLINGS,756,Billings,None,West,0,0
+BILOXI,746,Biloxi - Gulfport,None,West,0,0
+BINGHAMTON,502,Binghamton,None,Northeast,0,0
+BOISE,757,Boise,None,West,0,0
+BUTTE,754,Butte - Bozeman,None,West,0,0
+CASPER,767,Casper - Riverton,None,West,0,0
+CEDAR RAPIDS,637,Cedar Rapids - Waterloo & Dubuque,None,West,0,0
+CHARLOTTE,517,Charlotte,None,Northeast,0,0
+CHEYENNE,759,Cheyenne - Scottsbluff,None,West,0,0
+CLEVELAND,510,Cleveland,None,Northeast,0,0
+"COLUMBIA,MO",604,Columbia - Jefferson City,None,West,0,0
+"COLUMBUS,OH",535,"Columbus, OH",None,Northeast,0,0
+CORPUS CHRISTI,600,Corpus Christi,None,West,0,0
+DALLAS,623,Dallas - Fort Worth,None,West,0,0
+DES MOINES,679,Des Moines - Ames,None,West,0,0
+DULUTH,676,Duluth - Superior,None,West,0,0
+ELMIRA,565,Elmira,None,Northeast,0,0
+ERIE,516,Erie,None,Northeast,0,0
+EUREKA,802,Eureka,None,West,0,0
+FAIRBANKS,745,Fairbanks,None,West,0,0
+FARGO,724,Fargo - Valley City,None,West,0,0
+FT SMITH,670,Fort Smith - Fayetteville - Springdale - Rogers,None,Central,0,0
+GLENDIVE,798,Glendive,None,West,0,0
+GRAND JUNCTION,773,Grand Junction - Montrose,None,West,0,0
+GREAT FALLS,755,Great Falls,None,West,0,0
+"GREENVILLE,NC",545,Greenville - New Bern - Washington,None,Northeast,0,0
+GREENWOOD,647,Greenwood - Greenville,None,Central,0,0
+HARLINGEN,636,Harlingen - Weslaco - Brownsville - McAllen,None,West,0,0
+HELENA,766,Helena,None,West,0,0
+HONOLULU,744,Honolulu,None,West,0,0
+IDAHO FALLS,758,Idaho Falls - Pocatello,None,West,0,0
+JONESBORO,734,Jonesboro,None,West,0,0
+JOPLIN,603,Joplin - Pittsburg,None,West,0,0
+JUNEAU,747,Juneau,None,West,0,0
+LA CROSSE,702,La Crosse - Eau Claire,None,West,0,0
+"LAFAYETTE,LA",642,"Lafayette, LA",None,Central,0,0
+LAKE CHARLES,643,Lake Charles,None,Central,0,0
+LAREDO,749,Laredo,None,West,0,0
+LAS VEGAS,839,Las Vegas,None,West,0,0
+LEXINGTON,541,Lexington,None,Central,0,0
+LIMA,558,Lima,None,Central,0,0
+LINCOLN,722,Lincoln & Hastings - Kearney,None,Central,0,0
+LOS ANGELES,803,Los Angeles,None,West,0,0
+LUBBOCK,651,Lubbock,None,West,0,0
+MADISON,669,Madison,None,West,0,0
+MARQUETTE,553,Marquette,None,Central,0,0
+MEDFORD,813,Medford - Klamath Falls,None,West,0,0
+MILWAUKEE,617,Milwaukee,None,West,0,0
+MINOT,687,Minot - Bismarck - Dickinson,None,West,0,0
+MISSOULA,762,Missoula,None,West,0,0
+MONTGOMERY,698,Montgomery (Selma),None,Central,0,0
+MYRTLE BEACH,570,Florence - Myrtle Beach,None,Central,0,0
+NORTH PLATTE,740,North Platte,None,West,0,0
+ODESSA,633,Odessa - Midland,None,West,0,0
+OKLAHOMA CITY,650,Oklahoma City,None,West,0,0
+OMAHA,652,Omaha,None,West,0,0
+OTTUMWA,631,Ottumwa - Kirksville,None,West,0,0
+PALM SPRINGS,804,Palm Springs,None,West,0,0
+PARKERSBURG,597,Parkersburg,None,Northeast,0,0
+PRESQUE ISLE,552,Presque Isle,None,Northeast,0,0
+RAPID CITY,764,Rapid City,None,West,0,0
+RENO,811,Reno,None,West,0,0
+"ROCHESTER,MN",611,Rochester - Mason City - Austin,None,West,0,0
+"ROCHESTER,NY",538,"Rochester, NY",None,Northeast,0,0
+SAN ANGELO,661,San Angelo,None,West,0,0
+SAN ANTONIO,641,San Antonio,Houston,West,1,0
+SAN DIEGO,825,San Diego,None,West,0,0
+SHERMAN,657,"Sherman, TX - Ada, OK",None,West,0,0
+SIOUX CITY,624,Sioux City,None,West,0,0
+SIOUX FALLS,725,Sioux Falls (Mitchell),None,West,0,0
+"SPRINGFIELD,MO",619,"Springfield, MO",None,West,0,0
+ST JOSEPH,638,Saint Joseph,None,West,0,0
+ST LOUIS,609,Saint Louis,None,West,0,0
+SYRACUSE,555,Syracuse,None,Northeast,0,0
+TOPEKA,605,Topeka,None,West,0,0
+TRAVERSE CITY,540,Traverse City - Cadillac,None,Central,0,0
+TULSA,671,Tulsa,None,West,0,0
+TWIN FALLS,760,Twin Falls,None,West,0,0
+TYLER,709,Tyler - Longview (Lufkin & Nacogdoches),None,West,0,0
+UTICA,526,Utica,None,Northeast,0,0
+VICTORIA,626,Victoria,None,West,0,0
+WACO,625,Waco - Temple - Bryan,None,West,0,0
+WATERTOWN,549,Watertown,None,Northeast,0,0
+WAUSAU,705,Wausau - Rhinelander,None,West,0,0
+WICHITA,627,Wichita Falls & Lawton,None,West,0,0
+WICHITA FALLS,678,Wichita - Hutchinson,None,West,0,0
+WILMINGTON,550,Wilmington,None,Northeast,0,0
+YAKIMA,810,Yakima - Pasco - Richland - Kennewick,Seattle,West,1,0
+YUMA,771,Yuma - El Centro,None,West,0,0
+ZANESVILLE,596,Zanesville,None,Northeast,0,0
