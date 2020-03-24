@@ -5,6 +5,7 @@ Goal: Utilize KMeans Clustering, RandomForest, and other Classification methods 
 - Top 30 tech companies' info from Fortune.com
 - Competitive Advertising Spend from research firm Kantar
 - TV/Radio Audience Population from research firm Nielsen
+
 [Data Prepration](https://github.com/bonniema/Competitive_Spend_Classifier/blob/master/Data_Prep_Mod5_BM.ipynb)
 
 
