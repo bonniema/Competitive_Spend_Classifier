@@ -14,5 +14,11 @@ Goal: Utilize KMeans Clustering, RandomForest, and other Classification methods 
 
 
 ## Part II: Clustering 210 US Local DMAs to several segments
+In this notebook, I am trying to create clusters for US 210 DMAs based on tech industry advertisers' local spend to have a deeper understanding on the similarities among the markets. 
+
+The implication can be: find out market groups that tech advertiser prioritize or heavily adverse in; create local marketing strategies that cater to each group. 
+
+
+
 [Notebook link](https://github.com/bonniema/Competitive_Spend_Classifier/blob/master/Market_Segmentation_BM.ipynb)
 
