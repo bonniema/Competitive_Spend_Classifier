@@ -18,7 +18,7 @@ In this notebook, I am trying to create clusters for US 210 DMAs based on tech i
 
 The implication can be: find out market groups that tech advertiser prioritize or heavily adverse in; create local marketing strategies that cater to each group. 
 
-
+![Cluster Results](https://github.com/bonniema/Competitive_Spend_Classifier/blob/master/market_clusters.JPG)
 
 [Notebook link](https://github.com/bonniema/Competitive_Spend_Classifier/blob/master/Market_Segmentation_BM.ipynb)
 
